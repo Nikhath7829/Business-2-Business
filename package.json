@@ -30,7 +30,7 @@
     "@ionic/angular": "^4.7.1",
     "@ng-bootstrap/ng-bootstrap": "^5.2.1",
     "@swimlane/ngx-datatable": "^16.0.3",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "chartjs-plugin-zoom": "^0.7.5",
     "cordova-android": "8.1.0",
     "cordova-plugin-ionic-webview": "^4.1.3",
